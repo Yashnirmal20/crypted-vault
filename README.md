@@ -25,7 +25,7 @@ This project implements a crypted IPFS vault using the MERN (MongoDB, Express.js
 Clone the repository from GitHub using the following command:
 
 ```bash
-git clone 
+git clone https://github.com/Yashnirmal20/crypted-vault.git
 ```
 
 ### Step 2: Setup Server Environment Variables
