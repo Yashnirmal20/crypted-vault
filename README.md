@@ -33,7 +33,7 @@ git clone https://github.com/Yashnirmal20/crypted-vault.git
 Navigate to the `server` directory:
 
 ```bash
-cd cryptedVaultYT/server
+cd cryptedVault/server
 ```
 
 Create a new `.env` file in the `server` directory with the following entries. These environment variables will be used in `config/serverConfig.js`.
